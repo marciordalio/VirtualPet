@@ -59,7 +59,6 @@ O jogador deve cuidar do bichinho virtual até que ele atinja a **idade 50**, ma
 
 📁 src/
 ├── VirtualPet.java // Classe com atributos e métodos do pet
-├── Game.java // Lógica do jogo e menu interativo
 └── Main.java // Inicializa e executa o jogo
 
 
