@@ -23,7 +23,7 @@ O jogador deve cuidar do bichinho virtual até que ele atinja a **idade 50**, ma
 - `banheiro`: Aumenta quando o pet se alimenta
 - `sujeira`: Aumenta quando o pet brinca
 
-### 🛠️ Métodos (Comportamentos)
+###  Métodos (Comportamentos)
 
 - `alimentar()`: Diminui fome, aumenta vontade de ir ao banheiro
 - `brincar()`: Aumenta felicidade e sujeira, também cansa o pet
@@ -65,7 +65,7 @@ O jogador deve cuidar do bichinho virtual até que ele atinja a **idade 50**, ma
 
 ---
 
-## ▶️ Como Rodar o Jogo
+##  Como Rodar o Jogo
 
 ```bash
 git clone https://github.com/seu-usuario/bichinho-virtual-java.git
